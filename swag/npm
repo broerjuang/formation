@@ -14,3 +14,5 @@ parrotsay::parrotsay
 terminalizer::terminalizer
 vsce::vsce
 bs-platform::bs-platform
+expo-cli::expo 
+react-native-cli::react-native
